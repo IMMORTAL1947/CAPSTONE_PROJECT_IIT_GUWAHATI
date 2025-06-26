@@ -1,4 +1,4 @@
-# CAPSTONE_PROJECT_IIT_GUWAHATI
+# CAPSTONE_PROJECT  AI Customer Support Assistant
 :  🧠 AI Customer Support Assistant A fine-tuned, lightweight AI chatbot built to automate customer service queries using generative models (Mistral 7B) and LoRA fine-tuning.
 🚀 Project Overview
 This project demonstrates an end-to-end pipeline to build an AI-powered customer support system:
